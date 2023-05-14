@@ -1,0 +1,48 @@
+.mat-mdc-form-field {
+    width: 100%;
+}
+.mat-mdc-text-field-wrapper {
+    padding-bottom: 0em;
+}
+.mat-mdc-text-field-wrapper.mdc-text-field--outlined .mat-mdc-form-field-infix {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.mat-mdc-form-field-label-wrapper {
+    top: -1.7em;
+    line-height: 1.5rem;
+}
+.mat-mdc-text-field-wrapper.mdc-text-field--outlined .mdc-notched-outline--upgraded .mdc-floating-label--float-above {
+    --mat-mdc-form-field-label-transform: translateY(-1.8em) scale(0.75);
+    transform: var(--mat-mdc-form-field-label-transform);
+    width: 133.33333%;
+}
+
+.mat-mdc-text-field-wrapper .mat-mdc-form-field-flex .mat-mdc-floating-label {
+    top: 22px;
+}
+
+.width-100 {
+    width: 100%;
+}
+
+.mat-mdc-form-field-infix {
+    min-height: 44px;
+}
+
+.button__height_50 {
+    height: 42px;
+    font-size: 20px;
+}
+
+.color-black {
+    color: black;
+    --color: black;
+}
+
+/*Button Starts++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.mat-mdc-raised-button.mat-unthemed {
+    --mdc-protected-button-container-color: #b72928;
+    --mdc-protected-button-label-text-color: #fff;
+}
+/*Button Ends++++++++++++++++++++++++++++++++++++++++++++++++++++*/

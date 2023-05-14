@@ -1,0 +1,47 @@
+.kundali__details {
+    .mt__0 {
+        margin-top: 0;
+    }
+    .mb__0 {
+        margin-bottom: 0;
+    }
+    .first__item {
+        text-align: center;
+        color: black;
+        --color: black;
+    }
+    .second__item {
+        text-align: center;
+        color: black;
+        --color: black;
+        p:last-child {
+            font-weight: bold;
+        }
+    }
+    .third__item {
+        color: black;
+        --color: black;
+        p {
+            margin: 0;
+            margin-bottom: 5px;
+        }
+    }
+    .fourth__item {
+        color: black;
+        --color: black;
+        p:first-child {
+            font-weight: bold;
+        }
+        p {
+            margin: 0;
+            margin-bottom: 5px;
+        }
+    }
+    .fifth__item {
+        color: black;
+        --color: black;
+        p {
+            font-weight: bold;
+        }
+    }
+}

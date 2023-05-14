@@ -1,0 +1,7 @@
+{
+  "name": "ionic-7-angular-16-login-dashboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
