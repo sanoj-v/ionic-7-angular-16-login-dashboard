@@ -19,7 +19,6 @@ export class LoginPage {
     private apiFacadeService: ApiFacadeService,
     public uiFacadeService: UiFacadeService) {
     this.createForm();
-    console.log('----', apiFacadeService.isAuthenticated());
   }
 
   async ngOnInit() {
